@@ -1,12 +1,13 @@
-import './App.css';
-import Meal from './Components/Meal';
+import "./App.css";
+import Meal from "./Components/Meal";
+import './Components/style.css';
 
 function App() {
   return (
     <>
-        <Meal />
+      <Meal />
     </>
-  )
+  );
 }
 
 export default App;
