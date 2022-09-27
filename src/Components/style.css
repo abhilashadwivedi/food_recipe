@@ -39,7 +39,7 @@ body{
 .card{
     width: 18-px;
     border-radius: 1 rem;
-    background-color: black;
+    background-color: #F2D7D9;
     padding: 5px;
 }
 img{
@@ -47,7 +47,7 @@ img{
     border-radius: 1rem 1rem 0 0;
 }
 .card h3{
-    color: white;
+    color: rgb(49, 2, 2);
     font-size: 18px;
 }
 .indexContainer{
